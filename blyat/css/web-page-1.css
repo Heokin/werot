@@ -1,0 +1,1962 @@
+/* screen - web-page-1 */
+
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 2px solid var(--alto);
+}
+.border-class-3 {
+  border: 3px solid var(--blueberry);
+}
+.font-class-1 {
+  font-family: 'PT Sans', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-2 {
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 800;
+}
+.font-class-3 {
+  font-family: 'PT Sans', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.font-class-4 {
+  color: transparent;
+  font-family: 'PT Sans', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.web-page-1 {
+  background-color: var(--white);
+  height: 5539px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+.web-page-1 .a8-ehk-x6u-faf-mfgq-1-C61RwL {
+  background-color: transparent;
+  height: 201px;
+  left: 393px;
+  position: absolute;
+  top: 1657px;
+  width: 351px;
+}
+.web-page-1 .all-includ-bungie-inc-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 1372px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: 158px;
+}
+.web-page-1 .always-in-touch-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 30px;
+  height: auto;
+  left: 393px;
+  position: absolute;
+  text-align: left;
+  top: 1920px;
+  width: 353px;
+}
+.web-page-1 .browse-services-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 25px;
+  height: auto;
+  left: 428px;
+  position: absolute;
+  text-align: left;
+  top: 560px;
+  width: auto;
+}
+.web-page-1 .cart-NByPpC {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 1078px;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: auto;
+}
+.web-page-1 .coming-soon-C61RwL {
+  background-color: transparent;
+  color: var(--white-2);
+  font-size: 30px;
+  height: auto;
+  left: 1147px;
+  position: absolute;
+  text-align: left;
+  top: 2974px;
+  width: auto;
+}
+.web-page-1 .coming-soon-VMr6Om {
+  background-color: transparent;
+  color: var(--white-2);
+  font-size: 30px;
+  height: auto;
+  left: 558px;
+  position: absolute;
+  text-align: left;
+  top: 2974px;
+  width: auto;
+}
+.web-page-1 .coming-soon-mzXdH9 {
+  background-color: transparent;
+  color: var(--white-2);
+  font-size: 30px;
+  height: auto;
+  left: 1147px;
+  position: absolute;
+  text-align: left;
+  top: 2676px;
+  width: 213px;
+}
+.web-page-1 .component-1-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 392px;
+  position: absolute;
+  top: 3578px;
+  width: 254px;
+}
+.web-page-1 .component-10-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 688px;
+  position: absolute;
+  top: 4234px;
+  width: 254px;
+}
+.web-page-1 .component-11-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 984px;
+  position: absolute;
+  top: 4234px;
+  width: 254px;
+}
+.web-page-1 .component-12-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 1280px;
+  position: absolute;
+  top: 4234px;
+  width: 254px;
+}
+.web-page-1 .component-13-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 392px;
+  position: absolute;
+  top: 4562px;
+  width: 254px;
+}
+.web-page-1 .component-14-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 688px;
+  position: absolute;
+  top: 4562px;
+  width: 254px;
+}
+.web-page-1 .component-15-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 984px;
+  position: absolute;
+  top: 4562px;
+  width: 254px;
+}
+.web-page-1 .component-16-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 1280px;
+  position: absolute;
+  top: 4562px;
+  width: 254px;
+}
+.web-page-1 .component-2-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 688px;
+  position: absolute;
+  top: 3578px;
+  width: 254px;
+}
+.web-page-1 .component-26-C61RwL {
+  background-color: var(--ship-gray);
+  height: 471px;
+  left: 0px;
+  position: absolute;
+  top: 5068px;
+  width: 1920px;
+}
+.web-page-1 .component-3-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 984px;
+  position: absolute;
+  top: 3578px;
+  width: 254px;
+}
+.web-page-1 .component-4-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 1280px;
+  position: absolute;
+  top: 3578px;
+  width: 254px;
+}
+.web-page-1 .component-5-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 392px;
+  position: absolute;
+  top: 3906px;
+  width: 254px;
+}
+.web-page-1 .component-6-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 688px;
+  position: absolute;
+  top: 3906px;
+  width: 254px;
+}
+.web-page-1 .component-7-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 984px;
+  position: absolute;
+  top: 3906px;
+  width: 254px;
+}
+.web-page-1 .component-8-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 1280px;
+  position: absolute;
+  top: 3906px;
+  width: 254px;
+}
+.web-page-1 .component-9-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 392px;
+  position: absolute;
+  top: 4234px;
+  width: 254px;
+}
+.web-page-1 .contact-us-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 25px;
+  height: auto;
+  left: 980px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: auto;
+}
+.web-page-1 .contact-us-NByPpC {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 925px;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: auto;
+}
+.web-page-1 .d2-hero-pic-1-C61RwL {
+  background-color: transparent;
+  height: 203px;
+  left: 784px;
+  position: absolute;
+  top: 1657px;
+  width: 352px;
+}
+.web-page-1 .design-by-jhinubis-GEKAlJ {
+  background-color: transparent;
+  font-size: 16px;
+  height: auto;
+  left: 392px;
+  position: absolute;
+  text-align: left;
+  top: 337px;
+  width: auto;
+}
+.web-page-1 .destiny-2--4-1280x0-1-C61RwL {
+  background-color: transparent;
+  height: 203px;
+  left: 1176px;
+  position: absolute;
+  top: 1657px;
+  width: 352px;
+}
+.web-page-1 .destiny-2-2P4qUJ {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 25px;
+  height: auto;
+  left: 1336px;
+  position: absolute;
+  text-align: left;
+  top: 3462px;
+  width: auto;
+}
+.web-page-1 .destiny-2-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 30px;
+  height: auto;
+  left: 419px;
+  position: absolute;
+  text-align: left;
+  top: 2831px;
+  width: auto;
+}
+.web-page-1 .destiny-2-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 1176px;
+  position: absolute;
+  text-align: left;
+  top: 122px;
+  width: auto;
+}
+.web-page-1 .destiny-2-QxM5SU {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 25px;
+  height: auto;
+  left: 484px;
+  position: absolute;
+  text-align: left;
+  top: 3462px;
+  width: auto;
+}
+.web-page-1 .destiny-2-VMr6Om {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 30px;
+  height: auto;
+  left: 1007px;
+  position: absolute;
+  text-align: left;
+  top: 2831px;
+  width: auto;
+}
+.web-page-1 .destiny-2-mzXdH9 {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 30px;
+  height: auto;
+  left: 419px;
+  position: absolute;
+  text-align: left;
+  top: 2534px;
+  width: 152px;
+}
+.web-page-1 .ellipse-6-NByPpC {
+  background-color: transparent;
+  height: 40px;
+  left: 1488px;
+  position: absolute;
+  top: 21px;
+  width: 40px;
+}
+.web-page-1 .ellipse-7-NByPpC {
+  background-color: transparent;
+  height: 43px;
+  left: 1494px;
+  position: absolute;
+  top: 27px;
+  width: 43px;
+}
+.web-page-1 .en-NByPpC {
+  background-color: transparent;
+  color: var(--ship-gray);
+  font-size: 20px;
+  height: auto;
+  left: 1393px;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+.web-page-1 .exclude-C61RwL {
+  background-color: transparent;
+  height: 80px;
+  left: 827px;
+  position: absolute;
+  top: 1793px;
+  width: 80px;
+}
+.web-page-1 .game-requi-re-to-help-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 962px;
+  position: absolute;
+  text-align: left;
+  top: 1177px;
+  width: 555px;
+}
+.web-page-1 .games-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 25px;
+  height: auto;
+  left: 1176px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: auto;
+}
+.web-page-1 .get-desire-sting-time-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 393px;
+  position: absolute;
+  top: 317px;
+  width: 418px;
+}
+.web-page-1 .group-68-C61RwL {
+  background-color: transparent;
+  height: 7298px;
+  left: 3794px;
+  position: absolute;
+  top: -63px;
+  width: 1410px;
+}
+.web-page-1 .group-69-C61RwL {
+  background-color: transparent;
+  height: 7298px;
+  left: -9662px;
+  position: absolute;
+  top: -2539px;
+  width: 1410px;
+}
+.web-page-1 .ii-km-noe--rr-r9-ef-1-C61RwL {
+  background-color: transparent;
+  height: 456px;
+  left: -6px;
+  position: absolute;
+  top: 920px;
+  width: 799px;
+}
+.web-page-1 .image-C61RwL {
+  background-color: transparent;
+  height: 920px;
+  left: 961px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.web-page-1 .information-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 25px;
+  height: auto;
+  left: 784px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: auto;
+}
+.web-page-1 .job-done-w-ly-methods-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 30px;
+  height: auto;
+  left: 1176px;
+  position: absolute;
+  text-align: left;
+  top: 1920px;
+  width: 358px;
+}
+.web-page-1 .league-of-legends-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 25px;
+  height: auto;
+  left: 1002px;
+  position: absolute;
+  text-align: left;
+  top: 3462px;
+  width: auto;
+}
+.web-page-1 .line-7-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 675px;
+  position: absolute;
+  top: 3448px;
+  width: 1px;
+}
+.web-page-1 .line-8-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 958px;
+  position: absolute;
+  top: 3448px;
+  width: 1px;
+}
+.web-page-1 .line-9-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 1243px;
+  position: absolute;
+  top: 3448px;
+  width: 1px;
+}
+.web-page-1 .livekolba-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 1026px;
+  position: absolute;
+  text-align: left;
+  top: 221px;
+  width: auto;
+}
+.web-page-1 .mask-group-C61RwL {
+  background-color: transparent;
+  height: 267px;
+  left: 392px;
+  position: absolute;
+  top: 2803px;
+  width: 548px;
+}
+.web-page-1 .mask-group-QxM5SU {
+  background-color: transparent;
+  height: 267px;
+  left: 392px;
+  position: absolute;
+  top: 2507px;
+  width: 547px;
+}
+.web-page-1 .mask-group-VMr6Om {
+  background-color: transparent;
+  height: 267px;
+  left: 979px;
+  position: absolute;
+  top: 2803px;
+  width: 549px;
+}
+.web-page-1 .mask-group-mzXdH9 {
+  background-color: transparent;
+  height: 266px;
+  left: 979px;
+  position: absolute;
+  top: 2506px;
+  width: 549px;
+}
+.web-page-1 .menu-a-C61RwL {
+  background-color: transparent;
+  height: 149px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.web-page-1 .name-4TO2uA {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-5mfU7d {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-67BR09 {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-80D1y4 {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-9p2GBv {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-9wWKr1 {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-SbfXyE {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-WuNq42 {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-d2IOlb {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-esxmfg {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-kDxRuz {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-mkY3xh {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-p4wM3n {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-y49ok2 {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-ymSmVu {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .name-zmv7IO {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-1 .our-operat-100-orders-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 784px;
+  position: absolute;
+  text-align: left;
+  top: 2018px;
+  width: 354px;
+}
+.web-page-1 .our-way-of-g-job-done-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 25px;
+  height: auto;
+  left: 810px;
+  position: absolute;
+  text-align: left;
+  top: 1589px;
+  width: auto;
+}
+.web-page-1 .playing-ga-profession-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 30px;
+  height: auto;
+  left: 784px;
+  position: absolute;
+  text-align: left;
+  top: 1920px;
+  width: 354px;
+}
+.web-page-1 .polygon-1-C61RwL {
+  background-color: transparent;
+  height: 182px;
+  left: 388px;
+  position: absolute;
+  top: 1742px;
+  width: 175px;
+}
+.web-page-1 .polygon-2-C61RwL {
+  background-color: transparent;
+  height: 182px;
+  left: 779px;
+  position: absolute;
+  top: 1742px;
+  width: 176px;
+}
+.web-page-1 .polygon-3-C61RwL {
+  background-color: transparent;
+  height: 182px;
+  left: 1167px;
+  position: absolute;
+  top: 1742px;
+  width: 175px;
+}
+.web-page-1 .privacy-policy-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 784px;
+  position: absolute;
+  text-align: left;
+  top: 122px;
+  width: auto;
+}
+.web-page-1 .rectangle-149-NByPpC {
+  background-color: var(--ship-gray);
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.4);;
+  height: 120px;
+  left: 392px;
+  position: absolute;
+  top: 0px;
+  width: 86px;
+}
+.web-page-1 .rectangle-150-Ap9ohB {
+  background-color: transparent;
+  border-radius: 96px;
+  height: 40px;
+  left: 882px;
+  position: absolute;
+  top: 20px;
+  width: 156px;
+}
+.web-page-1 .rectangle-150-NByPpC {
+  background-color: var(--white);
+  box-shadow: 0px 10px 20px rgba(0,0,0,0.2);;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.web-page-1 .rectangle-151-NByPpC {
+  background-color: transparent;
+  height: 35px;
+  left: 547px;
+  position: absolute;
+  top: 22px;
+  width: 197px;
+}
+.web-page-1 .rectangle-184-C61RwL {
+  background-color: var(--ship-gray);
+  border-radius: 10px;
+  height: 266px;
+  left: 392px;
+  position: absolute;
+  top: 2804px;
+  width: 548px;
+}
+.web-page-1 .rectangle-184-QxM5SU {
+  background-color: var(--ship-gray);
+  border-radius: 10px;
+  height: 266px;
+  left: 392px;
+  position: absolute;
+  top: 2507px;
+  width: 547px;
+}
+.web-page-1 .rectangle-184-VMr6Om {
+  background-color: var(--ship-gray);
+  border-radius: 10px;
+  height: 267px;
+  left: 979px;
+  position: absolute;
+  top: 2803px;
+  width: 549px;
+}
+.web-page-1 .rectangle-184-mzXdH9 {
+  background-color: var(--ship-gray);
+  border-radius: 10px;
+  height: 264px;
+  left: 980px;
+  position: absolute;
+  top: 2507px;
+  width: 548px;
+}
+.web-page-1 .rectangle-185-C61RwL {
+  background-color: transparent;
+  height: 267px;
+  left: 392px;
+  position: absolute;
+  top: 2803px;
+  width: 548px;
+}
+.web-page-1 .rectangle-185-QxM5SU {
+  background-color: transparent;
+  height: 267px;
+  left: 392px;
+  position: absolute;
+  top: 2507px;
+  width: 547px;
+}
+.web-page-1 .rectangle-185-VMr6Om {
+  background-color: transparent;
+  height: 267px;
+  left: 979px;
+  position: absolute;
+  top: 2803px;
+  width: 549px;
+}
+.web-page-1 .rectangle-185-mzXdH9 {
+  background-color: var(--log-cabin);
+  border-radius: 10px;
+  height: 264px;
+  left: 979px;
+  position: absolute;
+  top: 2507px;
+  width: 548px;
+}
+.web-page-1 .rectangle-196-C61RwL {
+  background-color: rgba(255,93,93,0.04);
+  height: 1288px;
+  left: -6077px;
+  position: absolute;
+  top: -3366px;
+  width: 1920px;
+}
+.web-page-1 .rectangle-211-C61RwL {
+  background-color: rgba(243,242,249,1.0);
+  height: 456px;
+  left: 793px;
+  position: absolute;
+  top: 920px;
+  width: 1145px;
+}
+.web-page-1 .rectangle-212-C61RwL {
+  background-color: rgba(243,242,249,1.0);
+  height: 1000px;
+  left: -20px;
+  position: absolute;
+  top: 2249px;
+  width: 1958px;
+}
+.web-page-1 .rectangle-221-C61RwL {
+  background-color: var(--blueberry);
+  border-radius: 10px;
+  box-shadow: 0px 0px 90px rgba(121,63,216,0.5);;
+  height: 46px;
+  left: 410px;
+  position: absolute;
+  top: 2709px;
+  width: 200px;
+}
+.web-page-1 .rectangle-221-NByPpC {
+  background-color: transparent;
+  border-radius: 47px;
+  height: 40px;
+  left: 1378px;
+  position: absolute;
+  top: 21px;
+  width: 80px;
+}
+.web-page-1 .rectangle-223-C61RwL {
+  background-color: var(--blueberry);
+  border-radius: 10px;
+  box-shadow: 0px 0px 90px rgba(121,63,216,0.5);;
+  height: 46px;
+  left: 410px;
+  position: absolute;
+  top: 3006px;
+  width: 200px;
+}
+.web-page-1 .rectangle-224-C61RwL {
+  background-color: var(--blueberry);
+  border-radius: 10px;
+  box-shadow: 0px 0px 90px rgba(121,63,216,0.5);;
+  height: 45px;
+  left: 999px;
+  position: absolute;
+  top: 2708px;
+  width: 196px;
+}
+.web-page-1 .rectangle-225-C61RwL {
+  background-color: var(--blueberry);
+  border-radius: 10px;
+  box-shadow: 0px 0px 90px rgba(121,63,216,0.5);;
+  height: 47px;
+  left: 999px;
+  position: absolute;
+  top: 3005px;
+  width: 196px;
+}
+.web-page-1 .rectangle-233-C61RwL {
+  background-color: var(--log-cabin);
+  border-radius: 10px;
+  height: 266px;
+  left: 980px;
+  position: absolute;
+  top: 2804px;
+  width: 548px;
+}
+.web-page-1 .rectangle-235-C61RwL {
+  background-color: var(--log-cabin);
+  border-radius: 10px;
+  height: 266px;
+  left: 392px;
+  position: absolute;
+  top: 2804px;
+  width: 548px;
+}
+.web-page-1 .rectangle-251-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.25);;
+  height: 80px;
+  left: 392px;
+  position: absolute;
+  top: 3438px;
+  width: 1136px;
+}
+.web-page-1 .rectangle-252-C61RwL {
+  background-color: rgba(243,243,243,1.0);
+  height: 80px;
+  left: 676px;
+  position: absolute;
+  top: 3438px;
+  width: 284px;
+}
+.web-page-1 .rectangle-8-C61RwL {
+  background-color: var(--blueberry);
+  border-radius: 10px;
+  box-shadow: 0px 0px 90px rgba(121,63,216,0.5);;
+  height: 60px;
+  left: 392px;
+  position: absolute;
+  top: 546px;
+  width: 240px;
+}
+.web-page-1 .rectangle-81-C61RwL {
+  background-color: rgba(255,93,93,0.04);
+  height: 1288px;
+  left: 3539px;
+  position: absolute;
+  top: -890px;
+  width: 1920px;
+}
+.web-page-1 .rectangle-99-4TO2uA {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-5mfU7d {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-67BR09 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-80D1y4 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-9p2GBv {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-9wWKr1 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-SbfXyE {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-WuNq42 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-d2IOlb {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-esxmfg {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-kDxRuz {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-mkY3xh {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-p4wM3n {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-y49ok2 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-ymSmVu {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .rectangle-99-zmv7IO {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-1 .refund-policy-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 784px;
+  position: absolute;
+  text-align: left;
+  top: 204px;
+  width: auto;
+}
+.web-page-1 .search-NByPpC {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 588px;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: auto;
+}
+.web-page-1 .selection-of-games-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 40px;
+  height: auto;
+  left: 392px;
+  position: absolute;
+  text-align: left;
+  top: 2409px;
+  width: auto;
+}
+.web-page-1 .shop-NByPpC {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 807px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: auto;
+}
+.web-page-1 .show-services-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 20px;
+  height: auto;
+  left: 453px;
+  position: absolute;
+  text-align: left;
+  top: 3016px;
+  width: auto;
+}
+.web-page-1 .show-services-QxM5SU {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 20px;
+  height: auto;
+  left: 451px;
+  position: absolute;
+  text-align: left;
+  top: 2719px;
+  width: 121px;
+}
+.web-page-1 .show-services-VMr6Om {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 20px;
+  height: auto;
+  left: 1038px;
+  position: absolute;
+  text-align: left;
+  top: 3016px;
+  width: auto;
+}
+.web-page-1 .show-services-mzXdH9 {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 20px;
+  height: auto;
+  left: 1038px;
+  position: absolute;
+  text-align: left;
+  top: 2717px;
+  width: 121px;
+}
+.web-page-1 .span1-ZPxWuM {
+  color: rgba(119,119,119,1.0);
+  font-family: 'PT Sans', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.web-page-1 .span2-ZPxWuM {
+  color: rgba(190,190,190,1.0);
+  font-family: 'PT Sans', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.web-page-1 .span3-ZPxWuM {
+  color: rgba(190,190,190,1.0);
+  font-family: 'PT Sans', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  text-decoration: underline;
+}
+.web-page-1 .starts-at-4TO2uA {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-5mfU7d {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-67BR09 {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-80D1y4 {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-9p2GBv {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-9wWKr1 {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-SbfXyE {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-WuNq42 {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-d2IOlb {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-esxmfg {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-kDxRuz {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-mkY3xh {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-p4wM3n {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-y49ok2 {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-ymSmVu {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .starts-at-zmv7IO {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-1 .subtract-C61RwL {
+  background-color: transparent;
+  height: 79px;
+  left: 837px;
+  position: absolute;
+  top: 1794px;
+  width: 59px;
+}
+.web-page-1 .terms-of-service-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 784px;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+.web-page-1 .the-securi-e-priority-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 1176px;
+  position: absolute;
+  text-align: left;
+  top: 2055px;
+  width: 361px;
+}
+.web-page-1 .top-sellin--this-week-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 40px;
+  height: auto;
+  left: 392px;
+  position: absolute;
+  text-align: left;
+  top: 3329px;
+  width: auto;
+}
+.web-page-1 .usd-NByPpC {
+  background-color: transparent;
+  color: var(--ship-gray);
+  font-size: 20px;
+  height: auto;
+  left: 1311px;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+.web-page-1 .vector-2-stroke-NByPpC {
+  background-color: transparent;
+  height: 9px;
+  left: 1431px;
+  position: absolute;
+  top: 37px;
+  width: 15px;
+}
+.web-page-1 .vector-2P4qUJ {
+  background-color: transparent;
+  height: 80px;
+  left: 1223px;
+  position: absolute;
+  top: 2581px;
+  width: 62px;
+}
+.web-page-1 .vector-60YvuH {
+  background-color: transparent;
+  height: 33px;
+  left: 980px;
+  position: absolute;
+  top: 163px;
+  width: 30px;
+}
+.web-page-1 .vector-Ap9ohB {
+  background-color: transparent;
+  height: 24px;
+  left: 406px;
+  position: absolute;
+  top: 78px;
+  width: 59px;
+}
+.web-page-1 .vector-C61RwL {
+  background-color: transparent;
+  height: 72px;
+  left: 428px;
+  position: absolute;
+  top: 1801px;
+  width: 77px;
+}
+.web-page-1 .vector-GEKAlJ {
+  background-color: transparent;
+  height: 164px;
+  left: 393px;
+  position: absolute;
+  top: 44px;
+  width: 159px;
+}
+.web-page-1 .vector-I6d6li {
+  background-color: transparent;
+  height: 4px;
+  left: 996px;
+  position: absolute;
+  top: 177px;
+  width: 4px;
+}
+.web-page-1 .vector-KPC66g {
+  background-color: transparent;
+  height: 16px;
+  left: 987px;
+  position: absolute;
+  top: 273px;
+  width: 16px;
+}
+.web-page-1 .vector-L6fTEZ {
+  background-color: transparent;
+  height: 30px;
+  left: 980px;
+  position: absolute;
+  top: 266px;
+  width: 30px;
+}
+.web-page-1 .vector-NByPpC {
+  background-color: transparent;
+  height: 64px;
+  left: 403px;
+  position: absolute;
+  top: 11px;
+  width: 62px;
+}
+.web-page-1 .vector-QxM5SU {
+  background-color: transparent;
+  height: 80px;
+  left: 1223px;
+  position: absolute;
+  top: 2879px;
+  width: 62px;
+}
+.web-page-1 .vector-VMr6Om {
+  background-color: transparent;
+  height: 70px;
+  left: 1223px;
+  position: absolute;
+  top: 1796px;
+  width: 76px;
+}
+.web-page-1 .vector-WIJT2h {
+  background-color: transparent;
+  height: 4px;
+  left: 1001px;
+  position: absolute;
+  top: 271px;
+  width: 4px;
+}
+.web-page-1 .vector-bxBuSm {
+  background-color: transparent;
+  height: 4px;
+  left: 990px;
+  position: absolute;
+  top: 177px;
+  width: 4px;
+}
+.web-page-1 .vector-d4bCMy {
+  background-color: transparent;
+  height: 30px;
+  left: 980px;
+  position: absolute;
+  top: 216px;
+  width: 30px;
+}
+.web-page-1 .vector-dPiB8F {
+  background-color: transparent;
+  height: 60px;
+  left: 588px;
+  position: absolute;
+  top: 98px;
+  width: 153px;
+}
+.web-page-1 .vector-kJN1vA {
+  background-color: transparent;
+  height: 20px;
+  left: 559px;
+  position: absolute;
+  top: 30px;
+  width: 20px;
+}
+.web-page-1 .vector-mzXdH9 {
+  background-color: transparent;
+  height: 80px;
+  left: 635px;
+  position: absolute;
+  top: 2879px;
+  width: 62px;
+}
+.web-page-1 .we-are-big-profession-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 961px;
+  position: absolute;
+  text-align: left;
+  top: 1109px;
+  width: 569px;
+}
+.web-page-1 .we-are-here-to-help-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 60px;
+  height: auto;
+  left: 392px;
+  position: absolute;
+  text-align: left;
+  top: 360px;
+  width: 492px;
+}
+.web-page-1 .we-will-co-sible-time-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 393px;
+  position: absolute;
+  text-align: left;
+  top: 2018px;
+  width: 353px;
+}
+.web-page-1 .werot0023-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 1026px;
+  position: absolute;
+  text-align: left;
+  top: 166px;
+  width: auto;
+}
+.web-page-1 .werotgmailcom-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 980px;
+  position: absolute;
+  text-align: left;
+  top: 122px;
+  width: auto;
+}
+.web-page-1 .werots-way-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 40px;
+  height: auto;
+  left: 803px;
+  position: absolute;
+  text-align: left;
+  top: 1524px;
+  width: auto;
+}
+.web-page-1 .who-we-are-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 40px;
+  height: auto;
+  left: 961px;
+  position: absolute;
+  text-align: left;
+  top: 1020px;
+  width: auto;
+}
+.web-page-1 .wo-w-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 30px;
+  height: auto;
+  left: 1007px;
+  position: absolute;
+  text-align: left;
+  top: 2534px;
+  width: 208px;
+}
+.web-page-1 .wo-w-VMr6Om {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 25px;
+  height: auto;
+  left: 790px;
+  position: absolute;
+  text-align: left;
+  top: 3462px;
+  width: auto;
+}
+.web-page-1 .x-werot-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 1026px;
+  position: absolute;
+  text-align: left;
+  top: 271px;
+  width: auto;
+}
+.web-page-1 .x20-9p2GBv {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x20-SbfXyE {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x20-p4wM3n {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x35-4TO2uA {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x35-5mfU7d {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x35-67BR09 {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x35-80D1y4 {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x35-9wWKr1 {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x35-WuNq42 {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x35-d2IOlb {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x35-esxmfg {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x35-kDxRuz {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x35-mkY3xh {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x35-y49ok2 {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x35-ymSmVu {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-1 .x35-zmv7IO {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+:root {
+  --alto: rgba(221,221,221,1.0);
+  --black: rgba(0,0,0,1.0);
+  --blueberry: rgba(78,94,246,1.0);
+  --dune: rgba(64,51,51,1.0);
+  --log-cabin: rgba(34,34,34,0.69);
+  --ship-gray: rgba(63,63,63,1.0);
+  --silver: rgba(189,189,189,1.0);
+  --silver-2: rgba(190,190,190,1.0);
+  --white: rgba(255,255,255,1.0);
+  --white-2: rgba(255,255,255,0.6);
+}

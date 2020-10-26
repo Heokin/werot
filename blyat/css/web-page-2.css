@@ -1,0 +1,2131 @@
+/* screen - web-page-2 */
+
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 2px solid var(--alto);
+}
+.border-class-3 {
+  border: 3px solid var(--blueberry);
+}
+.font-class-1 {
+  font-family: 'PT Sans', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-2 {
+  font-family: 'Montserrat', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 800;
+}
+.font-class-3 {
+  font-family: 'PT Sans', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.font-class-4 {
+  color: transparent;
+  font-family: 'PT Sans', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.web-page-2 {
+  background-color: var(--white);
+  height: 4216px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+.web-page-2 .all-includ-bungie-inc-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 1372px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: 158px;
+}
+.web-page-2 .catalyst-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 1724px;
+  width: auto;
+}
+.web-page-2 .checkbox-state-1-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 857px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-10-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 1411px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-11-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 1451px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-12-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 1567px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-13-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 1607px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-14-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 1723px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-15-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 1763px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-2-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 897px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-3-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 937px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-4-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 977px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-5-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 1097px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-6-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 1137px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-7-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 1177px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-8-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 1249px;
+  width: 24px;
+}
+.web-page-2 .checkbox-state-9-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--ship-gray);
+  border-radius: 3px;
+  height: 24px;
+  left: 420px;
+  position: absolute;
+  top: 1289px;
+  width: 24px;
+}
+.web-page-2 .component-1-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 686px;
+  position: absolute;
+  top: 801px;
+  width: 254px;
+}
+.web-page-2 .component-10-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 686px;
+  position: absolute;
+  top: 1845px;
+  width: 254px;
+}
+.web-page-2 .component-11-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 980px;
+  position: absolute;
+  top: 1845px;
+  width: 254px;
+}
+.web-page-2 .component-12-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 1274px;
+  position: absolute;
+  top: 1845px;
+  width: 254px;
+}
+.web-page-2 .component-13-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 686px;
+  position: absolute;
+  top: 2193px;
+  width: 254px;
+}
+.web-page-2 .component-14-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 980px;
+  position: absolute;
+  top: 2193px;
+  width: 254px;
+}
+.web-page-2 .component-15-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 1274px;
+  position: absolute;
+  top: 2193px;
+  width: 254px;
+}
+.web-page-2 .component-16-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 1274px;
+  position: absolute;
+  top: 2709px;
+  width: 254px;
+}
+.web-page-2 .component-17-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 980px;
+  position: absolute;
+  top: 2709px;
+  width: 254px;
+}
+.web-page-2 .component-18-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 686px;
+  position: absolute;
+  top: 2709px;
+  width: 254px;
+}
+.web-page-2 .component-19-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 392px;
+  position: absolute;
+  top: 2709px;
+  width: 254px;
+}
+.web-page-2 .component-2-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 980px;
+  position: absolute;
+  top: 801px;
+  width: 254px;
+}
+.web-page-2 .component-20-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 1274px;
+  position: absolute;
+  top: 3234px;
+  width: 254px;
+}
+.web-page-2 .component-21-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 980px;
+  position: absolute;
+  top: 3234px;
+  width: 254px;
+}
+.web-page-2 .component-22-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 686px;
+  position: absolute;
+  top: 3234px;
+  width: 254px;
+}
+.web-page-2 .component-23-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 392px;
+  position: absolute;
+  top: 3234px;
+  width: 254px;
+}
+.web-page-2 .component-26-C61RwL {
+  background-color: var(--ship-gray);
+  height: 471px;
+  left: 0px;
+  position: absolute;
+  top: 3745px;
+  width: 1920px;
+}
+.web-page-2 .component-3-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 1274px;
+  position: absolute;
+  top: 801px;
+  width: 254px;
+}
+.web-page-2 .component-4-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 686px;
+  position: absolute;
+  top: 1149px;
+  width: 254px;
+}
+.web-page-2 .component-5-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 980px;
+  position: absolute;
+  top: 1149px;
+  width: 254px;
+}
+.web-page-2 .component-6-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 1274px;
+  position: absolute;
+  top: 1149px;
+  width: 254px;
+}
+.web-page-2 .component-7-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 686px;
+  position: absolute;
+  top: 1497px;
+  width: 254px;
+}
+.web-page-2 .component-8-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 980px;
+  position: absolute;
+  top: 1497px;
+  width: 254px;
+}
+.web-page-2 .component-9-C61RwL {
+  background-color: transparent;
+  height: 288px;
+  left: 1274px;
+  position: absolute;
+  top: 1497px;
+  width: 254px;
+}
+.web-page-2 .contact-us-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 25px;
+  height: auto;
+  left: 980px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: auto;
+}
+.web-page-2 .crucible-g-nks-tokens-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 1178px;
+  width: auto;
+}
+.web-page-2 .design-by-jhinubis-GEKAlJ {
+  background-color: transparent;
+  font-size: 16px;
+  height: auto;
+  left: 392px;
+  position: absolute;
+  text-align: left;
+  top: 337px;
+  width: auto;
+}
+.web-page-2 .destiny-2-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 1176px;
+  position: absolute;
+  text-align: left;
+  top: 122px;
+  width: auto;
+}
+.web-page-2 .dungeon-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 1250px;
+  width: auto;
+}
+.web-page-2 .emblems-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 1764px;
+  width: auto;
+}
+.web-page-2 .exotic-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 1452px;
+  width: auto;
+}
+.web-page-2 .game-mods-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 25px;
+  height: auto;
+  left: 420px;
+  position: absolute;
+  text-align: left;
+  top: 1511px;
+  width: auto;
+}
+.web-page-2 .games-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 25px;
+  height: auto;
+  left: 1176px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: auto;
+}
+.web-page-2 .information-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 25px;
+  height: auto;
+  left: 784px;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: auto;
+}
+.web-page-2 .last-viewed-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 30px;
+  height: auto;
+  left: 392px;
+  position: absolute;
+  text-align: left;
+  top: 3137px;
+  width: auto;
+}
+.web-page-2 .legendary-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 1412px;
+  width: auto;
+}
+.web-page-2 .leveling-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 1138px;
+  width: auto;
+}
+.web-page-2 .line-4-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 686px;
+  position: absolute;
+  top: 759px;
+  width: 842px;
+}
+.web-page-2 .livekolba-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 1026px;
+  position: absolute;
+  text-align: left;
+  top: 221px;
+  width: auto;
+}
+.web-page-2 .main-C61RwL {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 16px;
+  height: auto;
+  left: 408px;
+  position: absolute;
+  text-align: left;
+  top: 452px;
+  width: auto;
+}
+.web-page-2 .mask-group-C61RwL {
+  background-color: transparent;
+  height: 500px;
+  left: 0px;
+  position: absolute;
+  top: 10px;
+  width: 1920px;
+}
+.web-page-2 .mask-group-VMr6Om {
+  background-color: transparent;
+  height: 140px;
+  left: 392px;
+  position: absolute;
+  top: 526px;
+  width: 1136px;
+}
+.web-page-2 .menu-a-C61RwL {
+  background-color: transparent;
+  height: 164px;
+  left: -15px;
+  position: absolute;
+  top: -8px;
+  width: 1950px;
+}
+.web-page-2 .name-4TO2uA {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-5mfU7d {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-67BR09 {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-80D1y4 {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-9ik5Q1 {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-9p2GBv {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-9wWKr1 {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-9xmqxE {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-JOeIWP {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-SbfXyE {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-U6xerV {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-WuNq42 {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-d2IOlb {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-esxmfg {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-kDxRuz {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-mkY3xh {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-p4wM3n {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-qBCXT5 {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-sCPNT4 {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-uWnxTg {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-y49ok2 {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-ymSmVu {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .name-zmv7IO {
+  background-color: transparent;
+  color: var(--dune);
+  font-size: 25px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: auto;
+}
+.web-page-2 .other-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 25px;
+  height: auto;
+  left: 420px;
+  position: absolute;
+  text-align: left;
+  top: 1667px;
+  width: auto;
+}
+.web-page-2 .popular-choices-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 30px;
+  height: auto;
+  left: 392px;
+  position: absolute;
+  text-align: left;
+  top: 2612px;
+  width: auto;
+}
+.web-page-2 .privacy-policy-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 784px;
+  position: absolute;
+  text-align: left;
+  top: 122px;
+  width: auto;
+}
+.web-page-2 .pv-e-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 1568px;
+  width: auto;
+}
+.web-page-2 .pv-p-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 1608px;
+  width: auto;
+}
+.web-page-2 .quest-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 1290px;
+  width: auto;
+}
+.web-page-2 .raid-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 1098px;
+  width: auto;
+}
+.web-page-2 .rarety-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 25px;
+  height: auto;
+  left: 420px;
+  position: absolute;
+  text-align: left;
+  top: 1355px;
+  width: auto;
+}
+.web-page-2 .rectangle-131-C61RwL {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 1132px;
+  left: 392px;
+  position: absolute;
+  top: 730px;
+  width: 255px;
+}
+.web-page-2 .rectangle-151-C61RwL {
+  background-color: transparent;
+  border: 1px solid var(--alto);
+  border-radius: 20px;
+  height: 24px;
+  left: 392px;
+  position: absolute;
+  top: 690px;
+  width: 100px;
+}
+.web-page-2 .rectangle-238-C61RwL {
+  background-color: rgba(196,196,196,1.0);
+  border-radius: 10px;
+  height: 140px;
+  left: 392px;
+  position: absolute;
+  top: 526px;
+  width: 1136px;
+}
+.web-page-2 .rectangle-241-C61RwL {
+  background-color: rgba(196,196,196,1.0);
+  border-radius: 10px;
+  height: 8px;
+  left: 392px;
+  position: absolute;
+  top: 3057px;
+  width: 352px;
+}
+.web-page-2 .rectangle-242-C61RwL {
+  background-color: rgba(196,196,196,1.0);
+  border-radius: 10px;
+  height: 8px;
+  left: 392px;
+  position: absolute;
+  top: 3582px;
+  width: 352px;
+}
+.web-page-2 .rectangle-243-C61RwL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 28px;
+  left: 484px;
+  position: absolute;
+  top: 448px;
+  width: 67px;
+}
+.web-page-2 .rectangle-244-C61RwL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 28px;
+  left: 392px;
+  position: absolute;
+  top: 448px;
+  width: 66px;
+}
+.web-page-2 .rectangle-99-4TO2uA {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-5mfU7d {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-67BR09 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-80D1y4 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-9ik5Q1 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-9p2GBv {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-9wWKr1 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-9xmqxE {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-JOeIWP {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-SbfXyE {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-U6xerV {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-WuNq42 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-d2IOlb {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-esxmfg {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-kDxRuz {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-mkY3xh {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-p4wM3n {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-qBCXT5 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-sCPNT4 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-uWnxTg {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-y49ok2 {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-ymSmVu {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .rectangle-99-zmv7IO {
+  background-color: transparent;
+  height: 164px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+.web-page-2 .refund-policy-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 784px;
+  position: absolute;
+  text-align: left;
+  top: 204px;
+  width: auto;
+}
+.web-page-2 .season-of--he-undying-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 938px;
+  width: auto;
+}
+.web-page-2 .season-of-arrivals-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 978px;
+  width: auto;
+}
+.web-page-2 .season-of-dawn-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 898px;
+  width: auto;
+}
+.web-page-2 .season-of-worthy-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  height: auto;
+  left: 454px;
+  position: absolute;
+  text-align: left;
+  top: 858px;
+  width: auto;
+}
+.web-page-2 .seasons-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 25px;
+  height: auto;
+  left: 420px;
+  position: absolute;
+  text-align: left;
+  top: 801px;
+  width: auto;
+}
+.web-page-2 .shop-C61RwL {
+  background-color: transparent;
+  color: rgba(124,124,124,1.0);
+  font-size: 16px;
+  height: auto;
+  left: 500px;
+  position: absolute;
+  text-align: left;
+  top: 452px;
+  width: auto;
+}
+.web-page-2 .span1-ZPxWuM {
+  color: rgba(119,119,119,1.0);
+  font-family: 'PT Sans', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.web-page-2 .span2-ZPxWuM {
+  color: rgba(190,190,190,1.0);
+  font-family: 'PT Sans', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.web-page-2 .span3-ZPxWuM {
+  color: rgba(190,190,190,1.0);
+  font-family: 'PT Sans', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  text-decoration: underline;
+}
+.web-page-2 .starts-at-4TO2uA {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-5mfU7d {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-67BR09 {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-80D1y4 {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-9ik5Q1 {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-9p2GBv {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-9wWKr1 {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-9xmqxE {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-JOeIWP {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-SbfXyE {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-U6xerV {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-WuNq42 {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-d2IOlb {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-esxmfg {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-kDxRuz {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-mkY3xh {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-p4wM3n {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-qBCXT5 {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-sCPNT4 {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-uWnxTg {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-y49ok2 {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-ymSmVu {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .starts-at-zmv7IO {
+  background-color: transparent;
+  color: var(--silver);
+  font-size: 20px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: auto;
+}
+.web-page-2 .terms-of-service-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 784px;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+.web-page-2 .text-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 723px;
+  position: absolute;
+  text-align: left;
+  top: 749px;
+  width: auto;
+}
+.web-page-2 .the-recluse-C61RwL {
+  background-color: transparent;
+  color: var(--ship-gray);
+  font-size: 12px;
+  height: auto;
+  left: 411px;
+  position: absolute;
+  text-align: left;
+  top: 694px;
+  width: auto;
+}
+.web-page-2 .type-of-activity-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 25px;
+  height: auto;
+  left: 420px;
+  position: absolute;
+  text-align: left;
+  top: 1041px;
+  width: auto;
+}
+.web-page-2 .vector-2-stroke-2P4qUJ {
+  background-color: transparent;
+  height: 12px;
+  left: 1521px;
+  position: absolute;
+  top: 737px;
+  width: 7px;
+}
+.web-page-2 .vector-2-stroke-C61RwL {
+  background-color: transparent;
+  height: 12px;
+  left: 1499px;
+  position: absolute;
+  top: 737px;
+  width: 7px;
+}
+.web-page-2 .vector-2-stroke-J1YQmd {
+  background-color: transparent;
+  height: 17px;
+  left: 466px;
+  position: absolute;
+  top: 454px;
+  width: 10px;
+}
+.web-page-2 .vector-2-stroke-QxM5SU {
+  background-color: transparent;
+  height: 12px;
+  left: 1516px;
+  position: absolute;
+  top: 2533px;
+  width: 7px;
+}
+.web-page-2 .vector-2-stroke-VMr6Om {
+  background-color: transparent;
+  height: 12px;
+  left: 1499px;
+  position: absolute;
+  top: 2533px;
+  width: 7px;
+}
+.web-page-2 .vector-2-stroke-mzXdH9 {
+  background-color: transparent;
+  height: 12px;
+  left: 1516px;
+  position: absolute;
+  top: 737px;
+  width: 7px;
+}
+.web-page-2 .vector-2-stroke-qr8e7q {
+  background-color: transparent;
+  height: 12px;
+  left: 1521px;
+  position: absolute;
+  top: 2533px;
+  width: 7px;
+}
+.web-page-2 .vector-60YvuH {
+  background-color: transparent;
+  height: 33px;
+  left: 980px;
+  position: absolute;
+  top: 163px;
+  width: 30px;
+}
+.web-page-2 .vector-GEKAlJ {
+  background-color: transparent;
+  height: 164px;
+  left: 393px;
+  position: absolute;
+  top: 44px;
+  width: 159px;
+}
+.web-page-2 .vector-I6d6li {
+  background-color: transparent;
+  height: 4px;
+  left: 996px;
+  position: absolute;
+  top: 177px;
+  width: 4px;
+}
+.web-page-2 .vector-KPC66g {
+  background-color: transparent;
+  height: 16px;
+  left: 987px;
+  position: absolute;
+  top: 273px;
+  width: 16px;
+}
+.web-page-2 .vector-L6fTEZ {
+  background-color: transparent;
+  height: 30px;
+  left: 980px;
+  position: absolute;
+  top: 266px;
+  width: 30px;
+}
+.web-page-2 .vector-WIJT2h {
+  background-color: transparent;
+  height: 4px;
+  left: 1001px;
+  position: absolute;
+  top: 271px;
+  width: 4px;
+}
+.web-page-2 .vector-bxBuSm {
+  background-color: transparent;
+  height: 4px;
+  left: 990px;
+  position: absolute;
+  top: 177px;
+  width: 4px;
+}
+.web-page-2 .vector-d4bCMy {
+  background-color: transparent;
+  height: 30px;
+  left: 980px;
+  position: absolute;
+  top: 216px;
+  width: 30px;
+}
+.web-page-2 .vector-dPiB8F {
+  background-color: transparent;
+  height: 60px;
+  left: 588px;
+  position: absolute;
+  top: 98px;
+  width: 153px;
+}
+.web-page-2 .werot0023-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 1026px;
+  position: absolute;
+  text-align: left;
+  top: 166px;
+  width: auto;
+}
+.web-page-2 .werotgmailcom-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 980px;
+  position: absolute;
+  text-align: left;
+  top: 122px;
+  width: auto;
+}
+.web-page-2 .x-werot-GEKAlJ {
+  background-color: transparent;
+  color: var(--silver-2);
+  font-size: 16px;
+  height: auto;
+  left: 1026px;
+  position: absolute;
+  text-align: left;
+  top: 271px;
+  width: auto;
+}
+.web-page-2 .x1-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 1370px;
+  position: absolute;
+  text-align: left;
+  top: 730px;
+  width: auto;
+}
+.web-page-2 .x1-VMr6Om {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 1370px;
+  position: absolute;
+  text-align: left;
+  top: 2526px;
+  width: auto;
+}
+.web-page-2 .x15-results-he-recluse-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 686px;
+  position: absolute;
+  text-align: left;
+  top: 730px;
+  width: auto;
+}
+.web-page-2 .x2-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 1397px;
+  position: absolute;
+  text-align: left;
+  top: 730px;
+  width: auto;
+}
+.web-page-2 .x2-VMr6Om {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 1397px;
+  position: absolute;
+  text-align: left;
+  top: 2526px;
+  width: auto;
+}
+.web-page-2 .x3-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 1424px;
+  position: absolute;
+  text-align: left;
+  top: 730px;
+  width: auto;
+}
+.web-page-2 .x3-VMr6Om {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 1424px;
+  position: absolute;
+  text-align: left;
+  top: 2526px;
+  width: auto;
+}
+.web-page-2 .x35-4TO2uA {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-5mfU7d {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-67BR09 {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-9ik5Q1 {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-9p2GBv {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-9wWKr1 {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-9xmqxE {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-JOeIWP {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-SbfXyE {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-U6xerV {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-WuNq42 {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-d2IOlb {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-esxmfg {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-kDxRuz {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-mkY3xh {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-p4wM3n {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-qBCXT5 {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-uWnxTg {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-y49ok2 {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-ymSmVu {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x35-zmv7IO {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x4-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 1451px;
+  position: absolute;
+  text-align: left;
+  top: 730px;
+  width: auto;
+}
+.web-page-2 .x4-VMr6Om {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 1451px;
+  position: absolute;
+  text-align: left;
+  top: 2526px;
+  width: auto;
+}
+.web-page-2 .x40-80D1y4 {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x40-sCPNT4 {
+  background-color: transparent;
+  color: var(--blueberry);
+  font-size: 28px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+.web-page-2 .x5-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 1478px;
+  position: absolute;
+  text-align: left;
+  top: 730px;
+  width: auto;
+}
+.web-page-2 .x5-VMr6Om {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 20px;
+  height: auto;
+  left: 1478px;
+  position: absolute;
+  text-align: left;
+  top: 2526px;
+  width: auto;
+}
+:root {
+  --alto: rgba(221,221,221,1.0);
+  --black: rgba(0,0,0,1.0);
+  --blueberry: rgba(78,94,246,1.0);
+  --dune: rgba(64,51,51,1.0);
+  --log-cabin: rgba(34,34,34,0.69);
+  --ship-gray: rgba(63,63,63,1.0);
+  --silver: rgba(189,189,189,1.0);
+  --silver-2: rgba(190,190,190,1.0);
+  --white: rgba(255,255,255,1.0);
+  --white-2: rgba(255,255,255,0.6);
+}

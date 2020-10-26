@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, maximum-scale=1.0" />
+    <link rel="shortcut icon" href="./img/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/web-page-2.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=PT+Sans:700,400|Montserrat:800");
+      .anima-component-wrapper a,
+      .anima-screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .anima-full-width-a {
+        width: 100%;
+      }
+
+      .anima-full-height-a {
+        height: 100%;
+      }
+
+      .anima-screen textarea:focus,
+      .anima-screen input:focus {
+        outline: none;
+      }
+
+      .anima-screen *,
+      .anima-component-wrapper * {
+        box-sizing: border-box;
+      }
+
+      .anima-screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .anima-container-center-vertical,
+      .anima-container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .anima-container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .anima-container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .anima-container-center-vertical > *,
+      .anima-container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .anima-component-wrapper,
+      .anima-screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .anima-auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --anima-z-index: -1;
+      }
+
+      .anima-auto-animated .anima-container-center-vertical,
+      .anima-auto-animated .anima-container-center-horizontal {
+        opacity: 1;
+      }
+
+      .anima-overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .anima-animate-appear {
+        opacity: 0;
+        display: block;
+        animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .anima-animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .anima-animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes anima-reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .anima-valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .anima-valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      .anima-component-wrapper,
+      .anima-component-wrapper * {
+        pointer-events: none;
+      }
+
+      .anima-component-wrapper a *,
+      .anima-component-wrapper a,
+      .anima-component-wrapper input,
+      .anima-component-wrapper video,
+      .anima-component-wrapper iframe,
+      .anima-listeners-active,
+      .anima-listeners-active * {
+        pointer-events: auto;
+      }
+
+      .anima-hidden,
+      .anima-hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .anima-smart-layers-pointers,
+      .anima-smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .anima-component-wrapper.anima-not-ready,
+      .anima-component-wrapper.anima-not-ready * {
+        visibility: hidden !important;
+      }
+
+      .anima-listeners-active-click,
+      .anima-listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="web-page-2" />
+    <div class="anima-container-center-horizontal">
+      <div class="web-page-2 border-class-1 anima-screen">
+        <img class="mask-group-C61RwL" src="img/mask-group@1x.png" />
+        <div class="rectangle-131-C61RwL"></div>
+        <div class="seasons-C61RwL font-class-1 border-class-1">Seasons</div>
+        <div class="season-of-worthy-C61RwL font-class-3 border-class-1">Season of Worthy</div>
+        <div class="season-of-dawn-C61RwL font-class-3 border-class-1">Season of Dawn</div>
+        <div class="season-of--he-undying-C61RwL font-class-3 border-class-1">Season of the Undying</div>
+        <div class="season-of-arrivals-C61RwL font-class-3 border-class-1">Season of Arrivals</div>
+        <div class="type-of-activity-C61RwL font-class-1 border-class-1">Type of activity</div>
+        <div class="raid-C61RwL font-class-3 border-class-1">Raid</div>
+        <div class="leveling-C61RwL font-class-3 border-class-1">Leveling</div>
+        <div class="crucible-g-nks-tokens-C61RwL font-class-3 border-class-1">Crucible Gambit <br />Ranks/Tokens</div>
+        <div class="dungeon-C61RwL font-class-3 border-class-1">Dungeon</div>
+        <div class="quest-C61RwL font-class-3 border-class-1">Quest</div>
+        <div class="rarety-C61RwL font-class-1 border-class-1">Rarety</div>
+        <div class="legendary-C61RwL font-class-3 border-class-1">Legendary</div>
+        <div class="exotic-C61RwL font-class-3 border-class-1">Exotic</div>
+        <div class="pv-e-C61RwL font-class-3 border-class-1">PvE</div>
+        <div class="catalyst-C61RwL font-class-3 border-class-1">Catalyst</div>
+        <div class="game-mods-C61RwL font-class-1 border-class-1">Game mods</div>
+        <div class="pv-p-C61RwL font-class-3 border-class-1">PvP</div>
+        <div class="emblems-C61RwL font-class-3 border-class-1">Emblems</div>
+        <div class="other-C61RwL font-class-1 border-class-1">Other</div>
+        <div class="checkbox-state-1-C61RwL"></div>
+        <div class="checkbox-state-2-C61RwL"></div>
+        <div class="checkbox-state-3-C61RwL"></div>
+        <div class="checkbox-state-4-C61RwL"></div>
+        <div class="checkbox-state-5-C61RwL"></div>
+        <div class="checkbox-state-6-C61RwL"></div>
+        <div class="checkbox-state-7-C61RwL"></div>
+        <div class="checkbox-state-8-C61RwL"></div>
+        <div class="checkbox-state-9-C61RwL"></div>
+        <div class="checkbox-state-10-C61RwL"></div>
+        <div class="checkbox-state-11-C61RwL"></div>
+        <div class="checkbox-state-12-C61RwL"></div>
+        <div class="checkbox-state-13-C61RwL"></div>
+        <div class="checkbox-state-14-C61RwL"></div>
+        <div class="checkbox-state-15-C61RwL"></div>
+        <img class="vector-2-stroke-C61RwL" src="img/vector-2--stroke-@2x.png" />
+        <img class="vector-2-stroke-VMr6Om" src="img/vector-2--stroke-@2x.png" />
+        <img class="vector-2-stroke-mzXdH9" src="img/vector-2--stroke-@2x.png" />
+        <img class="vector-2-stroke-QxM5SU" src="img/vector-2--stroke-@2x.png" />
+        <img class="vector-2-stroke-2P4qUJ" src="img/vector-2--stroke-@2x.png" />
+        <img class="vector-2-stroke-qr8e7q" src="img/vector-2--stroke-@2x.png" />
+        <img class="line-4-C61RwL" src="img/line-4@1x.png" />
+        <div class="x1-C61RwL font-class-1 border-class-1">1</div>
+        <div class="x1-VMr6Om font-class-1 border-class-1">1</div>
+        <div class="x2-C61RwL font-class-3 border-class-1">2</div>
+        <div class="x2-VMr6Om font-class-3 border-class-1">2</div>
+        <div class="x3-C61RwL font-class-3 border-class-1">3</div>
+        <div class="x3-VMr6Om font-class-3 border-class-1">3</div>
+        <div class="x4-C61RwL font-class-3 border-class-1">4</div>
+        <div class="x4-VMr6Om font-class-3 border-class-1">4</div>
+        <div class="x5-C61RwL font-class-3 border-class-1">5</div>
+        <div class="x5-VMr6Om font-class-3 border-class-1">5</div>
+        <a href="web-page-3.html">
+          <div class="component-1-C61RwL">
+            <div class="name-9p2GBv font-class-1 border-class-1">The Recluse</div>
+            <div class="x35-9p2GBv font-class-2 border-class-1">$35</div>
+            <div class="starts-at-9p2GBv font-class-1 border-class-1">STARTS AT</div>
+            <img class="rectangle-99-9p2GBv" src="img/rectangle-99@2x.png" /></div
+        ></a>
+        <div class="component-4-C61RwL">
+          <div class="name-p4wM3n font-class-1 border-class-1">Komodo-4FR</div>
+          <div class="x35-p4wM3n font-class-2 border-class-1">$35</div>
+          <div class="starts-at-p4wM3n font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-p4wM3n" src="img/rectangle-99-1@2x.png" />
+        </div>
+        <div class="component-7-C61RwL">
+          <div class="name-4TO2uA font-class-1 border-class-1">Nightfall: the Ordeal</div>
+          <div class="x35-4TO2uA font-class-2 border-class-1">$35</div>
+          <div class="starts-at-4TO2uA font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-4TO2uA" src="img/rectangle-99-2@2x.png" />
+        </div>
+        <div class="component-10-C61RwL">
+          <div class="name-WuNq42 font-class-1 border-class-1">Leviathan’s Breath</div>
+          <div class="x35-WuNq42 font-class-2 border-class-1">$35</div>
+          <div class="starts-at-WuNq42 font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-WuNq42" src="img/rectangle-99-3@2x.png" />
+        </div>
+        <div class="component-13-C61RwL">
+          <div class="name-mkY3xh font-class-1 border-class-1">Ace of Spades</div>
+          <div class="x35-mkY3xh font-class-2 border-class-1">$35</div>
+          <div class="starts-at-mkY3xh font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-mkY3xh" src="img/rectangle-99-4@2x.png" />
+        </div>
+        <div class="component-2-C61RwL">
+          <div class="name-esxmfg font-class-1 border-class-1">Luna’s Howl</div>
+          <div class="x35-esxmfg font-class-2 border-class-1">$35</div>
+          <div class="starts-at-esxmfg font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-esxmfg" src="img/rectangle-99-5@2x.png" />
+        </div>
+        <div class="component-5-C61RwL">
+          <div class="name-9wWKr1 font-class-1 border-class-1">Devil&#39;s Ruin</div>
+          <div class="x35-9wWKr1 font-class-2 border-class-1">$35</div>
+          <div class="starts-at-9wWKr1 font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-9wWKr1" src="img/rectangle-99-6@2x.png" />
+        </div>
+        <div class="component-8-C61RwL">
+          <div class="name-ymSmVu font-class-1 border-class-1">Raid 1 Year</div>
+          <div class="x35-ymSmVu font-class-2 border-class-1">$35</div>
+          <div class="starts-at-ymSmVu font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-ymSmVu" src="img/rectangle-99-7@2x.png" />
+        </div>
+        <div class="component-11-C61RwL">
+          <div class="name-67BR09 font-class-1 border-class-1">21% Delirium</div>
+          <div class="x35-67BR09 font-class-2 border-class-1">$35</div>
+          <div class="starts-at-67BR09 font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-67BR09" src="img/rectangle-99-8@2x.png" />
+        </div>
+        <div class="component-14-C61RwL">
+          <div class="name-kDxRuz font-class-1 border-class-1">Ruinous Effigy</div>
+          <div class="x35-kDxRuz font-class-2 border-class-1">$35</div>
+          <div class="starts-at-kDxRuz font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-kDxRuz" src="img/rectangle-99-9@2x.png" />
+        </div>
+        <div class="component-3-C61RwL">
+          <div class="name-zmv7IO font-class-1 border-class-1">Izanagi&#39;s Burden</div>
+          <div class="x35-zmv7IO font-class-2 border-class-1">$35</div>
+          <div class="starts-at-zmv7IO font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-zmv7IO" src="img/rectangle-99-10@2x.png" />
+        </div>
+        <div class="component-6-C61RwL">
+          <div class="name-5mfU7d font-class-1 border-class-1">Whisper of the Worm</div>
+          <div class="x35-5mfU7d font-class-2 border-class-1">$35</div>
+          <div class="starts-at-5mfU7d font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-5mfU7d" src="img/rectangle-99-11@2x.png" />
+        </div>
+        <div class="component-9-C61RwL">
+          <div class="name-y49ok2 font-class-1 border-class-1">Last Wish</div>
+          <div class="x35-y49ok2 font-class-2 border-class-1">$35</div>
+          <div class="starts-at-y49ok2 font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-y49ok2" src="img/rectangle-99-12@2x.png" />
+        </div>
+        <div class="component-12-C61RwL">
+          <div class="name-SbfXyE font-class-1 border-class-1">Lumina</div>
+          <div class="x35-SbfXyE font-class-2 border-class-1">$35</div>
+          <div class="starts-at-SbfXyE font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-SbfXyE" src="img/rectangle-99-13@2x.png" />
+        </div>
+        <div class="component-15-C61RwL">
+          <div class="name-80D1y4 font-class-1 border-class-1">Sleeper Simulant</div>
+          <div class="x40-80D1y4 font-class-2 border-class-1">$40</div>
+          <div class="starts-at-80D1y4 font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-80D1y4" src="img/rectangle-99@2x.jpg" />
+        </div>
+        <div class="component-16-C61RwL">
+          <div class="name-d2IOlb font-class-1 border-class-1">Ace of Spades</div>
+          <div class="x35-d2IOlb font-class-2 border-class-1">$35</div>
+          <div class="starts-at-d2IOlb font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-d2IOlb" src="img/rectangle-99-4@2x.png" />
+        </div>
+        <div class="component-20-C61RwL">
+          <div class="name-uWnxTg font-class-1 border-class-1">Raid 1Year</div>
+          <div class="x35-uWnxTg font-class-2 border-class-1">$35</div>
+          <div class="starts-at-uWnxTg font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-uWnxTg" src="img/rectangle-99-7@2x.png" />
+        </div>
+        <div class="component-17-C61RwL">
+          <div class="name-qBCXT5 font-class-1 border-class-1">Izanagi&#39;s Burden</div>
+          <div class="x35-qBCXT5 font-class-2 border-class-1">$35</div>
+          <div class="starts-at-qBCXT5 font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-qBCXT5" src="img/rectangle-99-10@2x.png" />
+        </div>
+        <div class="component-21-C61RwL">
+          <div class="name-U6xerV font-class-1 border-class-1">Devil&#39;s Ruin</div>
+          <div class="x35-U6xerV font-class-2 border-class-1">$35</div>
+          <div class="starts-at-U6xerV font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-U6xerV" src="img/rectangle-99-6@2x.png" />
+        </div>
+        <div class="component-18-C61RwL">
+          <div class="name-9xmqxE font-class-1 border-class-1">Nightfall: the Ordeal</div>
+          <div class="x35-9xmqxE font-class-2 border-class-1">$35</div>
+          <div class="starts-at-9xmqxE font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-9xmqxE" src="img/rectangle-99-2@2x.png" />
+        </div>
+        <div class="component-22-C61RwL">
+          <div class="name-JOeIWP font-class-1 border-class-1">The Recluse</div>
+          <div class="x35-JOeIWP font-class-2 border-class-1">$35</div>
+          <div class="starts-at-JOeIWP font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-JOeIWP" src="img/rectangle-99@2x.png" />
+        </div>
+        <div class="component-19-C61RwL">
+          <div class="name-sCPNT4 font-class-1 border-class-1">Sleeper Simulant</div>
+          <div class="x40-sCPNT4 font-class-2 border-class-1">$40</div>
+          <div class="starts-at-sCPNT4 font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-sCPNT4" src="img/rectangle-99@2x.jpg" />
+        </div>
+        <div class="component-23-C61RwL">
+          <div class="name-9ik5Q1 font-class-1 border-class-1">Last Wish</div>
+          <div class="x35-9ik5Q1 font-class-2 border-class-1">$35</div>
+          <div class="starts-at-9ik5Q1 font-class-1 border-class-1">STARTS AT</div>
+          <img class="rectangle-99-9ik5Q1" src="img/rectangle-99-12@2x.png" />
+        </div>
+        <div class="text-C61RwL font-class-1 border-class-1"></div>
+        <div class="x15-results-he-recluse-C61RwL font-class-1 border-class-1">
+          15 Result(s) found for &#39;The Recluse&#39;
+        </div>
+        <div class="the-recluse-C61RwL font-class-3 border-class-1">The Recluse</div>
+        <div class="rectangle-238-C61RwL"></div>
+        <div class="rectangle-151-C61RwL"></div>
+        <div class="popular-choices-C61RwL font-class-2 border-class-1">Popular choices</div>
+        <div class="last-viewed-C61RwL font-class-2 border-class-1">Last viewed</div>
+        <div class="rectangle-241-C61RwL"></div>
+        <div class="rectangle-242-C61RwL"></div>
+        <img class="mask-group-VMr6Om" src="img/mask-group-1@1x.png" />
+        <div class="rectangle-244-C61RwL"></div>
+        <div class="rectangle-243-C61RwL"></div>
+        <div class="shop-C61RwL font-class-3 border-class-1">Shop</div>
+        <div class="main-C61RwL font-class-3 border-class-1">Main</div>
+        <img class="vector-2-stroke-J1YQmd" src="img/vector-2--stroke--6@2x.png" />
+        <div class="component-26-C61RwL">
+          <div class="information-GEKAlJ font-class-1 border-class-1">INFORMATION</div>
+          <div class="contact-us-GEKAlJ font-class-1 border-class-1">CONTACT US</div>
+          <div class="games-GEKAlJ font-class-1 border-class-1">GAMES</div>
+          <div class="all-includ-bungie-inc-GEKAlJ font-class-3 border-class-1">
+            All included here mentioned brand names are registered and property of the respective companies. Destiny 2
+            and Bungie are registered trademarks of Bungie Inc
+          </div>
+          <img class="vector-GEKAlJ" src="img/vector@2x.png" />
+          <img class="vector-dPiB8F" src="img/vector-1@2x.png" />
+          <div class="werotgmailcom-GEKAlJ font-class-3 border-class-1">Werot@gmail.com</div>
+          <div class="privacy-policy-GEKAlJ font-class-3 border-class-1">Privacy Policy</div>
+          <div class="destiny-2-GEKAlJ font-class-3 border-class-1">Destiny 2</div>
+          <div class="terms-of-service-GEKAlJ font-class-3 border-class-1">Terms of Service</div>
+          <div class="refund-policy-GEKAlJ font-class-3 border-class-1">Refund Policy</div>
+          <div class="werot0023-GEKAlJ font-class-3 border-class-1">Werot#0023</div>
+          <div class="livekolba-GEKAlJ font-class-3 border-class-1">live:kolba</div>
+          <div class="x-werot-GEKAlJ font-class-3 border-class-1">@Werot</div>
+          <img class="vector-60YvuH" src="img/vector-2@2x.png" />
+          <img class="vector-I6d6li" src="img/vector-3@2x.png" />
+          <img class="vector-bxBuSm" src="img/vector-4@2x.png" />
+          <img class="vector-L6fTEZ" src="img/vector-5@2x.png" />
+          <img class="vector-KPC66g" src="img/vector-6@2x.png" />
+          <img class="vector-WIJT2h" src="img/vector-7@2x.png" />
+          <img class="vector-d4bCMy" src="img/vector-8@2x.png" />
+          <div class="design-by-jhinubis-GEKAlJ font-class-4 border-class-1">
+            <span class="span1-ZPxWuM">Design by:</span>
+            <span class="span2-ZPxWuM"> </span>
+            <span class="span3-ZPxWuM">Jhinubis</span>
+          </div>
+        </div>
+        <img class="menu-a-C61RwL" src="img/menu-a@1x.png" />
+      </div>
+    </div>
+  </body>
+</html>
